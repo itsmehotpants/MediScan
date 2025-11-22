@@ -3,3 +3,8 @@ google-genai
 pillow
 python-dotenv
 fpdf
+streamlit
+google-generativeai
+pillow
+python-dotenv
+fpdf
