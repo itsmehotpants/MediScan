@@ -13,5 +13,6 @@ MediScan is a Streamlit-based medical imaging application powered by Google Gemi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/MediScan-AI.git](https://github.com/YOUR_USERNAME/MediScan-AI.git)
+   git clone [https://github.com/itsmehotpants/MediScan.git](https://github.com/itsmehotpants/MediScan.git)
    
+
